@@ -75,7 +75,7 @@ margin-top: 3em;
 
 body{
     background-size: cover;
-    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
@@ -84,5 +84,7 @@ body{
   .princ{
     width:75%;
   }
+
+  
  
  }
