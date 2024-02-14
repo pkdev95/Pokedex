@@ -71,7 +71,7 @@ export const Poke = () => {
                 {poke && (
                     <div className="princ">
                         <CardBS >
-                            <CardBS.Img width={300} height={300} className="cj" src="https://img.quizur.com/f/img5ecdad76f16749.58160519.png?lastEdited=1590537594" alt="CardBS image" />
+                            <CardBS.Img width={450} height={450} className="cj" src="https://img.quizur.com/f/img5ecdad76f16749.58160519.png?lastEdited=1590537594" alt="CardBS image" />
                             <CardBS.Body className='cb'>
                                 <CardBS.Title><h4 className="rj">Loading...</h4><>
                                 </></CardBS.Title>
@@ -86,7 +86,7 @@ export const Poke = () => {
                 {poke && (
                     <div className="princ">
                         <CardBS >
-                            <CardBS.Img width={300} height={300} className="ci" src={poke.sprites?.front_default} alt="CardBS image" />
+                            <CardBS.Img width={450} height={450} className="ci" src={poke.sprites?.front_default} alt="CardBS image" />
                             <CardBS.Body className='cb'>
                                 <CardBS.Title><h4 className="rj">{poke.name}</h4><>
                                 </></CardBS.Title>
