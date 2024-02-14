@@ -1,2 +1,2 @@
 # Pokedex
-Um card que exibe os pokemons unitariamente, e o seu tipo, unitariamente.
+Um card que que exibe a imagem, o nome, e o tipo do pokemon, unitariamente.
