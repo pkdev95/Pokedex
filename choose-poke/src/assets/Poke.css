@@ -1,0 +1,79 @@
+
+.princ{
+
+width:20%;
+margin-top: 3em;
+
+}
+
+.ci{
+    background-image:url("https://i.pinimg.com/736x/93/67/a8/9367a8f56bb914422993e08d77a5b188.jpg");
+    background-size: cover;
+}
+
+.pokeOut{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.end{
+    float: right;
+}
+
+
+.spin{
+
+    margin-top: 0.4em;
+
+}
+
+
+.lb{
+    margin-right: 4px;
+    color:aliceblue;
+    margin-top: 0.3em;
+}
+
+.sp{
+    margin-left: 3em;
+    color: white;
+}
+
+.pes{
+    margin-left: 6em;
+    font-weight:bold;
+    color: white;
+}
+
+
+
+.cb{
+    background-color: #04aec4;
+}
+
+.txx{
+    color: white;
+    
+}
+
+.rj{
+    color: white;
+}
+
+.load{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ 
+.princ .sbt{
+
+    color: white;
+    font-size: 21px;
+}
+
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
