@@ -10,7 +10,7 @@ import "./assets/Poke.css";
 
 export const Poke = () => {
 
-   document.body.style.backgroundImage = "url('https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2022/12/pokemon-encerra-a-historia-de-ash-e-pikachu-apos-25-anos-e-introduz-novos-protagonistas.jpg')"
+   document.body.style.backgroundImage = "url('https://gkpb.com.br/wp-content/uploads/2022/12/ash-pikachu-deixam-pokemon1-e1671196677262.jpg')"
 
     const [poke, setPoke] = useState(null);
     const [cont, setCont] = useState(1);
