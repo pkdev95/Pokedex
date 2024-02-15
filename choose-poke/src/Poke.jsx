@@ -37,7 +37,7 @@ export const Poke = () => {
 
     const sleep = async (time) => (
 
-        new Promise(resolve => {
+   await new Promise(resolve => {
             setTimeout(resolve, time);
         })
     );
